@@ -1,0 +1,10 @@
+Else & Elif,Compound Conditionals,For Loops,Motion,Variables
+What will be printed when this code is run?\n\ng = 1\nf=4\nif (g < 8):\n    print('hello')\nelse:\n    print('goodbye') ,What will be printed when this code is run?\n\na = 10\nb=3\nif (a > 5) and (b > 5):\n    print('hello')\nelse:\n    print('goodbye') ,x,x,x
+What will be printed when this code is run?\n\ng = 1\nf=4\nif (g < 8):\n    print('hello')\nelif (h>10)\nelse:\n    print('goodbye') ,What will be printed when this code is run?\n\na = 12\nb=0\nif (a > 5) or (b > 5):\n    print('hello')\nelse:\n    print('goodbye') ,x,x,x
+"What will the radius of c1 be after running this code?
+
+c1=Circle(200,200,30)
+if c1.centerX == 100:
+    return",x,x,x,x
+x,x,x,x,x
+x,x,x,x,x
