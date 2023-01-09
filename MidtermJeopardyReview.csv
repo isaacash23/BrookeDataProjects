@@ -1,2 +1,0 @@
-Compound Conditionals,For Loops,Motion,Variables,Misc
-What will be printed when this code is run?\n\na = 10\nb=3\nif (a > 5) and (b > 5):\n    print('hello')\nelse:\n    print('goodbye') ,,,,
